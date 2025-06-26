@@ -34,7 +34,4 @@ A powerful audio transcription widget that seamlessly integrates with any applic
 5. Storage of audio and text data
 6. Widget rendering with results
 
-## Getting Started
 
-1. Install dependencies:
-# whisper-opensource-alternative-
